@@ -1,0 +1,7 @@
+W
+Welcome to C programming!
+7
+17
+The number of words: 14
+The number of alphabetic letters: 69
+Program ends. Bye
