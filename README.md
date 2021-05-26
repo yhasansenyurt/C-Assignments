@@ -7,4 +7,6 @@ letter_print: '*' işaretiyle W,Z,X ve Y harflerini yazdıran ve yazdırdığı 
 
 reverse_integer: Girilen tam sayıyının belirli bir basamağından sonrasını ters çevirip yazdıran program. Örnek: 45678 tam sayısı ve 2 girdisi -> 45687. 2: son iki basamak.
 
-Manual String Operations: String kütüphanesindeki bazı fonksiyonların manual olarak tekrar yazımı ve kullanımı. (concat vb.) 
+Manual String Operations: String kütüphanesindeki bazı fonksiyonların manual olarak tekrar yazımı ve kullanımı. (concat vb.)
+
+E-Commerce System: Sepetlerin, müşterilerin ve ürünlerin olduğu, bunların birbiriyle linked list kullanılarak bağlandığı, alışveriş yapılan bir ticaret sistemi.
