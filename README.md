@@ -1,5 +1,5 @@
-# C-Assignments
-C ödevleri - C assignments.
+# C-Studies
+C studies
 
 
 -----------
