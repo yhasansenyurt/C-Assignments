@@ -2,6 +2,7 @@
 C ödevleri - C assignments.
 
 Problem Sets:
+
 counting_randomized_letter: İngiliz alfabesine göre a'dan z'ye randomize edilmiş bir char arrayi ve o array içerisindeki en çok tekrarlayan harfi bulan program.
 
 letter_print: '*' işaretiyle W,Z,X ve Y harflerini yazdıran ve yazdırdığı harfin büyüklüğünü ayarlayabilen program.
