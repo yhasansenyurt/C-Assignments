@@ -19,6 +19,8 @@ Manual String Operations: String kütüphanesindeki bazı fonksiyonların manual
 
 E-Commerce System: Sepetlerin, müşterilerin ve ürünlerin olduğu, bunların birbiriyle linked list kullanılarak bağlandığı, alışveriş yapılan bir ticaret sistemi.
 
+Graph Implementation - Dijkstra's Algorithm: The goal of this project is to implement a min Heap and Dijkstra's algorithm for computing the shortest paths in the graph which represents a social network. (Dijkstra algoritmasıyla graphlarda en kısa yolu hesaplayan program.)
+
 Linked List Student: Öğrencilerin ismine, soyismine ve numaralarına göre sıralayan linked list yapısı. (Linked list structure which sorts students via their names, surnames and ids.)
 
 Not: Programa 'students.txt' text dosyasının içindeki formatta input dosyası ve herhangi bir output dosyası verilmelidir. Bu input ve output dosyaları command line argument şeklinde verilmelidir. Örnek: parameters: students.txt output.txt
